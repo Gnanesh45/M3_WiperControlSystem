@@ -40,7 +40,7 @@ This Wiper Speed Control System is utilised in all sorts of automobiles, and its
 # SWOT Analysis 
 ## Strength
 * Visibility
-* The wiper does not stop in the middle of the window during drive.
+* The wiper does not stop in the middle of window during drive.
 * Safety
 
 ## Weakness 
